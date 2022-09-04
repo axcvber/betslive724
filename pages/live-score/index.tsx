@@ -15,7 +15,7 @@ const Score = () => {
     <>
       <NextSeo title={`${t.seo.liveScorePage.title} | BetsLive`} description={'desc'} />
       <Head>
-        <meta name='keywords' content={'live score keywords...'} />
+        {/* <meta name='keywords' content={'live score keywords...'} /> */}
         {/* <script type='module' src='https://widgets.api-sports.io/football/1.1.8/widget.js'></script> */}
         {/* <script type='text/javascript' src='https://tr.livescore.bz/jsd-bzwidget_v2.js' async></script> */}
 
